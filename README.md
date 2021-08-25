@@ -29,9 +29,9 @@ My name is Will. I live in Natal, Brazil and Im a Master Degree student in Chemi
 	- CSS :white_check_mark:
 	- Javascript :white_check_mark:
 	- Bootstrap :white_check_mark:
+        - ReactJS :electron: :white_check_mark:
 
 ## What I want to do next :thinking:
-- ReactJS :electron:
 - React Native 📱
 - NodeJS and Express ⚙️
 - To become a Full-Stack developer! 🔝
