@@ -1,0 +1,310 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    scroll-behavior: smooth;
+}
+
+#header{
+    width: 100%;
+    min-height: 3.5rem;
+    color: #fbb034;
+    background-color: #2a2626;
+}
+
+.containerHeader{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 14rem;
+    padding: .5rem 0 .5rem 10%;
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #303030;
+    width: 100%;
+    min-height: auto;
+    color: #fff;
+    box-shadow: 1rem 1rem 2rem .5rem rgba(0,0,0,0.2);
+}
+
+.container{
+    padding: 2rem 4rem 5rem 4rem;
+    margin-bottom: 1rem;
+    width: 50%;
+    text-align: justify;
+}
+
+.title{
+    font-size: xx-large;
+}
+
+p{
+    color: rgba(255,255,255,0.5);
+    line-height: 1.5rem;
+}
+
+strong{
+    color: #fbb034;
+}
+
+.containerSkills{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.containerSkill{
+    padding: 0 .5rem;
+    margin: 1rem auto 2rem auto;
+    width: 12.5rem;
+    min-height: 10rem;
+    text-align: center;
+}
+
+i{
+    color: #fbb034;
+    font-size: 3rem;
+    animation: pulse 5s infinite;
+}
+
+.photograph{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    background-image: url("../img/me.png");
+    background-position: bottom;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: #2a2626;
+    margin: -4rem 0 0 0;
+    width: 24rem;
+    height: 100vh;
+    box-shadow: 1rem 1rem 2rem 1rem rgba(0,0,0,0.2);
+    text-align: center;
+}
+
+.myName{
+    font-size: 5rem;
+    font-family: 'Fuggles', cursive;
+}
+
+small{
+    color: #fbb034;
+    margin-bottom: 1rem;
+}
+
+a{
+    text-decoration: inherit;
+    color: #fff;
+    cursor: pointer;
+}
+
+a i{
+    font-size: 150%;
+    margin: .5rem .5rem 1rem .5rem;
+}
+
+a i:hover {
+    color: #fff;
+    animation: none;
+}
+
+.project{
+    position: relative;
+    width: 160%;
+    height: 10rem;
+    margin: 0 -3rem;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+h4 a{
+    padding-bottom: .5rem;
+    border-bottom: 1px solid #fff;
+}
+
+h4 a:hover{
+    padding: 0;
+    font-size: 0rem;
+    border-bottom: none;
+}
+
+h4 a:hover::after{
+    color: #fbb034;
+    border-bottom: 1px solid #fbb034;
+    padding-bottom: .5rem;
+    content: "Visualizar o projeto...";
+    font-size: 1rem;
+}
+
+.meteor-weather-01{
+    position: absolute;
+    width: 70%;
+    margin: 5% 0 0 15%;
+    filter: drop-shadow(0 0 2rem #2a2626);
+}
+.meteor-weather-02{
+    position: absolute;
+    width: 65%;
+    margin-top: 20%;
+    filter: drop-shadow(0 0 2rem #2a2626);
+}
+.meteor-weather-03{
+    position: absolute;
+    width: 25%;
+    margin: 7% 0 0 72%;
+    filter: drop-shadow(0 0 2rem #2a2626);
+}
+
+.nextjs-chat-online-01{
+    position: absolute;
+    width: 100%;
+    margin: 5% 0 0 0;
+    filter: drop-shadow(0 0 1rem rgba(255,255,255, .1));
+}
+.nextjs-chat-online-02{
+    position: absolute;
+    width: 29%;
+    margin: 3% 0 0 25%;
+    filter: drop-shadow(0 0 1rem rgba(255,255,255, .1));
+}
+.nextjs-chat-online-03{
+    position: absolute;
+    width: 42%;
+    margin: 8% 0 0 50%;
+    filter: drop-shadow(0 0 1rem rgba(255,255,255, .1));
+}
+
+.nova-construtora-01{
+    position: absolute;
+    width: 90%;
+    margin: 6% 0 0 0;
+    filter: drop-shadow(0 0 2rem #2a2626);
+}
+.nova-construtora-02{
+    position: absolute;
+    width: 35%;
+    margin: 3% 0 0 45%;
+    filter: drop-shadow(0 0 2rem #2a2626);
+}
+.nova-construtora-03{
+    position: absolute;
+    width: 22%;
+    margin: 8% 0 0 75%;
+    filter: drop-shadow(0 0 2rem #2a2626);
+}
+
+.casa-jabuti-01{
+    position: absolute;
+    width: 90%;
+    margin: 8% 0 0 0;
+    filter: drop-shadow(0 0 2rem #2a2626);
+}
+.casa-jabuti-02{
+    position: absolute;
+    width: 70%;
+    margin: 0 0 0 30%;
+    filter: drop-shadow(0 0 2rem #2a2626);
+}
+
+.pokedex-01{
+    position: absolute;
+    width: 90%;
+    margin: 5% 0 0 5%;
+    filter: drop-shadow(0 0 2rem #2a2626);
+}
+.pokedex-02{
+    position: absolute;
+    width: 25%;
+    margin: 10% 0 0 15%;
+    filter: drop-shadow(0 0 2rem #2a2626);
+}
+.pokedex-03{
+    position: absolute;
+    width: 32%;
+    margin: 0% 0 0 55%;
+    filter: drop-shadow(0 0 2rem #2a2626);
+}
+
+.colisor-de-esferas-01{
+    position: absolute;
+    width: 85%;
+    margin: 10% 0 0 10%;
+    filter: drop-shadow(0 0 2rem #2a2626);
+}
+.colisor-de-esferas-02{
+    position: absolute;
+    width: 25%;
+    margin: 7% 0 0 0;
+    filter: drop-shadow(0 0 2rem #2a2626);
+}
+
+.registrador-de-produtos-01{
+    position: absolute;
+    width: 90%;
+    margin: 6% 0 0 0;
+    filter: drop-shadow(0 0 2rem #2a2626);
+}
+.registrador-de-produtos-02{
+    position: absolute;
+    width: 28%;
+    margin: 4% 0 0 70%;
+    filter: drop-shadow(0 0 2rem #2a2626);
+}
+
+#footer{
+    width: 100%;
+    min-height: 3.5rem;
+    background-color: #2a2626;
+}
+
+#toTopButton{
+    display: none;
+    position: fixed;
+    background-color: transparent;
+    bottom: 2rem;
+    right: 2rem;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 50%;
+}
+  
+#toTopButton:hover {
+    outline: none;
+}
+
+#toTopButton i:hover {
+    color: #fff;
+    outline: none;
+}
+
+@media screen and (min-width: 600px) {
+    .project{
+        height: 22rem;
+    }
+}
+
+@media screen and (min-width: 860px) {
+    .project{
+        height: 30rem;
+    }
+}
+
+@media screen and (min-width: 1100px) {
+    .project{
+        height: 100vh;
+    }
+}
+
+
+@keyframes pulse {
+    50% {filter: drop-shadow(0 0 2rem #fbb034)}
+}
