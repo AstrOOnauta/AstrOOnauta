@@ -402,9 +402,6 @@ h4 a:hover::after{
     .containerHeader{
         padding: .5rem 0 .5rem 5%;
     }
-    .modal-content {
-        width: 100%;
-    }
 }
 
 @media screen and (min-width: 1100px) {
