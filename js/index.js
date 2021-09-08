@@ -55,43 +55,43 @@ var captionText07 = document.getElementById("caption07");
 
 img01.onclick = function(){
   modal01.style.display = "block";
-  modalImgProject01.style.backgroundImage = "url('/img/meteor-weather-02.png')"
+  modalImgProject01.style.backgroundImage = "url('./img/meteor-weather-02.png')"
   captionText01.innerHTML = "Meteor Weather"
 }
 
 img02.onclick = function(){
   modal02.style.display = "block";
-  modalImgProject02.style.backgroundImage = "url('/img/nextjs-chat-onliner-01.png')"
+  modalImgProject02.style.backgroundImage = "url('./img/nextjs-chat-onliner-01.png')"
   captionText02.innerHTML = "Chat Github"
 }
 
 img03.onclick = function(){
   modal03.style.display = "block";
-  modalImgProject03.style.backgroundImage = "url('/img/nova-construtora-01.png')"
+  modalImgProject03.style.backgroundImage = "url('./img/nova-construtora-01.png')"
   captionText03.innerHTML = "Nova Construtora"
 }
 
 img04.onclick = function(){
   modal04.style.display = "block";
-  modalImgProject04.style.backgroundImage = "url('/img/casa-jabuti-01.png')"
+  modalImgProject04.style.backgroundImage = "url('./img/casa-jabuti-01.png')"
   captionText04.innerHTML = "Casa Jabuti"
 }
 
 img05.onclick = function(){
   modal05.style.display = "block";
-  modalImgProject05.style.backgroundImage = "url('/img/pokedex-01.png')"
+  modalImgProject05.style.backgroundImage = "url('./img/pokedex-01.png')"
   captionText05.innerHTML = "Pokedéx"
 }
 
 img06.onclick = function(){
   modal06.style.display = "block";
-  modalImgProject06.style.backgroundImage = "url('/img/colisor-de-esferas-01.png')"
+  modalImgProject06.style.backgroundImage = "url('./img/colisor-de-esferas-01.png')"
   captionText06.innerHTML = "Colisor de Esferas"
 }
 
 img07.onclick = function(){
   modal07.style.display = "block";
-  modalImgProject07.style.backgroundImage = "url('/img/registrador-de-produtos-01.png')"
+  modalImgProject07.style.backgroundImage = "url('./img/registrador-de-produtos-01.png')"
   captionText07.innerHTML = "Registrador"
 }
 
