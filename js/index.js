@@ -60,7 +60,7 @@ var captionText08 = document.getElementById("caption08");
 img01.onclick = function(){
   modal01.style.display = "block";
   modalImgProject01.style.backgroundImage = "url('/img/patient-list-01.png')"
-  captionText01.innerHTML = "Meteor Weather"
+  captionText01.innerHTML = "Patient List"
 }
 
 img02.onclick = function(){
