@@ -457,6 +457,9 @@ h4 a:hover::after{
     .containerHeader{
         padding: .5rem 0 .5rem 8.5%;
     }
+    .photograph{
+        height: 100vh;
+    }
 }
 
 
