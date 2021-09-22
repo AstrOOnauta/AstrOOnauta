@@ -43,7 +43,7 @@ main{
 .container{
     padding: 2rem 1rem 5rem 1rem;
     margin-bottom: 1rem;
-    width: 55%;
+    width: 80%;
     text-align: justify;
 }
 
@@ -57,7 +57,7 @@ main{
     font-weight: 600;
 }
 
-p{
+p, li{
     color: rgba(255,255,255,0.5);
     line-height: 1.8rem;
     letter-spacing: .1rem;
@@ -80,11 +80,14 @@ strong{
 }
 
 .containerSkill{
-    padding: 0 .5rem;
+    padding: 0 1rem;
     margin: 1rem auto 2rem auto;
-    width: 12rem;
     min-height: 10rem;
     text-align: center;
+}
+
+.containerSkill li {
+    text-align: left;
 }
 
 i{
@@ -138,9 +141,9 @@ a i:hover {
 .project{
     position: relative;
     cursor: pointer;
-    width: 150%;
-    height: 10rem;
-    margin: 0 -22%;
+    width: 120%;
+    height: 11rem;
+    margin: 0 -8%;
     overflow-x: hidden;
     overflow-y: hidden;
 }
@@ -163,6 +166,27 @@ h4 a:hover::after{
     content: "Visualizar o projeto...";
     font-size: 1rem;
     animation: blink-animation 1s infinite;
+}
+
+.patient-list-01{
+    position: absolute;
+    width: 80%;
+    margin: 2% 0 0 10%;
+    filter: drop-shadow(0 0 2rem #2a2626);
+}
+
+.patient-list-02{
+    position: absolute;
+    width: 40%;
+    margin-top: 12%;
+    filter: drop-shadow(0 0 2rem #2a2626);
+}
+
+.patient-list-03{
+    position: absolute;
+    width: 25%;
+    margin: 5% 0 0 70%;
+    filter: drop-shadow(0 0 2rem #2a2626);
 }
 
 .meteor-weather-01{
@@ -374,17 +398,32 @@ h4 a:hover::after{
 
 @media screen and (min-width: 600px) {
     .project{
+        position: relative;
+        cursor: pointer;
+        width: 150%;
         height: 22rem;
+        margin: 0 -22%;
+        overflow-x: hidden;
+        overflow-y: hidden;
     }
     .containerHeader{
         padding: .5rem 0 .5rem 22%;
+    }
+    .photograph{
+        height: 70vh;
+    }
+    .container{
+        padding: 2rem 1rem 5rem 1rem;
+        margin-bottom: 1rem;
+        width: 60%;
+        text-align: justify;
     }
 }
 
 @media screen and (min-width: 860px) {
     .project{
         height: 30rem;
-        margin: 0;
+        margin: 0 -8rem;
     }
     .typing{
         display: flex;
@@ -402,11 +441,18 @@ h4 a:hover::after{
     .containerHeader{
         padding: .5rem 0 .5rem 5%;
     }
+    .modal-content {
+        width: 100%;
+    }
+    .photograph{
+        height: 60vh;
+    }
 }
 
 @media screen and (min-width: 1100px) {
     .project{
         height: 100vh;
+        margin: 0;
     }
     .containerHeader{
         padding: .5rem 0 .5rem 8.5%;
