@@ -30,6 +30,7 @@ My name is Will. I live in Natal, Brazil and Im a Master Degree student in Chemi
 	- CSS :white_check_mark:
 	- Bootstrap :white_check_mark:
 	- Javascript :white_check_mark:
+	- Typescript :white_check_mark:
 	- ReactJS :electron: :white_check_mark:
 	- Styled-Components :white_check_mark:
 	- Axios :white_check_mark:
