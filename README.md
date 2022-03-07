@@ -12,11 +12,11 @@
 </div>
 
 ## About me :mortar_board:
-My name is Will. I live in Natal, Brazil and Im a Master Degree student in Chemistry and Web Developer in my free time.
+My name is Will. I live in Natal, Brazil and Im a Front-end Developer and Master in Chemistry.
 
 ## Detailed information:
 - **Name:** Willian Barbosa Lima do Nascimento
-- **Age:** 23 years-old
+- **Age:** 24 years-old
 - **Web Development Course:** IMD-UFRN
 - **Chemistry University:** IQ-UFRN
 
@@ -24,21 +24,25 @@ My name is Will. I live in Natal, Brazil and Im a Master Degree student in Chemi
 - **Competitive Programming**
 	- Basic in Java
 	- Basic in MySQL
+	- Basic in Postgress
 	- Basic in MongoDB
 - **Frontend Development**
 	- HTML5 :white_check_mark:
 	- CSS :white_check_mark:
 	- Bootstrap :white_check_mark:
+	- Chakra UI :white_check_mark:
 	- Javascript :white_check_mark:
 	- Typescript :white_check_mark:
-	- ReactJS :electron: :white_check_mark:
+	- ReactJS :white_check_mark:
 	- Styled-Components :white_check_mark:
-	- Axios :white_check_mark:
+	- Angular 2+ :white_check_mark:
+	- Angular Material :white_check_mark:
+	- Electron :electron: :white_check_mark:
 
 ## What I want to do next :thinking:
 - React Native 📱
-- NodeJS and Express ⚙️
-- To become a Full-Stack developer! 🔝
+- UI/UX Design
+- To become a complete Front-end developer! 🔝
 
 <br><br>
 
