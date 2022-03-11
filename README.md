@@ -28,19 +28,21 @@ My name is Will. I live in Natal, Brazil and Im a Front-end Developer and Master
 	- Basic in MongoDB
 - **Frontend Development**
 	- HTML5 :white_check_mark:
-	- CSS :white_check_mark:
+	- CSS/SASS :white_check_mark:
 	- Bootstrap :white_check_mark:
 	- Chakra UI :white_check_mark:
 	- Javascript :white_check_mark:
 	- Typescript :white_check_mark:
 	- ReactJS :white_check_mark:
+	- NextJS :white_check_mark:
+	- React Native 📱 :white_check_mark:
 	- Styled-Components :white_check_mark:
 	- Angular 2+ :white_check_mark:
 	- Angular Material :white_check_mark:
 	- Electron :electron: :white_check_mark:
 
 ## What I want to do next :thinking:
-- React Native 📱
+- Get more experience in front-end
 - UI/UX Design
 - To become a complete Front-end developer! 🔝
 
