@@ -18,8 +18,7 @@ Front-end Developer (working at the moment) and M.Sc in Chemistry.
 
 ## What I know :computer:
 <div align = "center">
-
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+ 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Bootstrap-FFFFFF?style=for-the-badge&logo=Bootstrap&logoColor=black"/>
 	<img src="https://img.shields.io/badge/chakra--ui-34c6bb?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
@@ -36,7 +35,6 @@ Front-end Developer (working at the moment) and M.Sc in Chemistry.
 	<img src="https://img.shields.io/badge/react--query-ff4154?style=for-the-badge&logo=react-query&logoColor=ffffff"/>
 	<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCB2C"/>
 	<img src="https://img.shields.io/badge/Docker-2497ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
 </div>
 
 ## What I want to do next :thinking:
