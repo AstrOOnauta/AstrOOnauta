@@ -17,33 +17,31 @@ Front-end Developer (working at the moment) and M.Sc in Chemistry.
 
 
 ## What I know :computer:
-- HTML5 :white_check_mark:
-- CSS3/SASS :white_check_mark:
-- Bootstrap :white_check_mark:
-- Chakra UI :white_check_mark:
-- Material UI :white_check_mark:
-- Styled-Components :white_check_mark:
-- Javascript Vanilla :white_check_mark:
-- Typescript :white_check_mark:
-- ReactJS :white_check_mark:
-- NextJS :white_check_mark:
-- React Native/Expo 📱 :white_check_mark:
-- ContextAPI/Redux :white_check_mark:
-- Angular 2+ :white_check_mark:
-- Angular Material :white_check_mark:
-- Electron :electron: :white_check_mark:
-- AdoniJS :white_check_mark:
-- MySQL/Postgress :white_check_mark:
-- Firebase :white_check_mark:
-- Docker :white_check_mark:
-- SCRUM/KANBAN :white_check_mark:
+<div align = "center">
 
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Bootstrap-FFFFFF?style=for-the-badge&logo=Bootstrap&logoColor=black"/>
+	<img src="https://img.shields.io/badge/chakra--ui-34c6bb?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
+	<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+	<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+	<img src="https://img.shields.io/badge/NextJS-000?style=for-the-badge&logo=Vercel&logoColor=61DAFB"/>
+	<img src="https://img.shields.io/badge/React--Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+	<img src="https://img.shields.io/badge/Expo-000?style=for-the-badge&logo=expo&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Electron-20232A?style=for-the-badge&logo=electron&logoColor=61DAFB"/>
+	<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+	<img src="https://img.shields.io/badge/react--query-ff4154?style=for-the-badge&logo=react-query&logoColor=ffffff"/>
+	<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCB2C"/>
+	<img src="https://img.shields.io/badge/Docker-2497ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+</div>
 
 ## What I want to do next :thinking:
-- Get more experience in front-end
-- UI/UX Design with Figma
-- To become a complete Web Developer! 🔝
-
+- Get more experience as a web/mobile dev 🔝
+- UI/UX Design with Figma 🔝
 
 <div align = "center">
 
