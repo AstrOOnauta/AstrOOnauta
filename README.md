@@ -7,7 +7,7 @@
 [<img src="https://img.shields.io/static/v1?label=Portfolio&message=AstrOOnauta&color=fbb034&style=for-the-badge&logo=ghost"/>](https://github.com/AstrOOnauta?tab=repositories)
 [<img src="https://img.shields.io/badge/gitlab-370D73?style=for-the-badge&logo=gitlab&logoColor=FC6D26"/>](https://gitlab.com/AstrOOnauta)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/astroonauta/)
-[<img src="https://img.shields.io/badge/LinkedIn-30A3E7?style=for-the-badge&logo=linkedin&logoColor=white">](https://t.me/AstrOOnauta)
+[<img src="https://img.shields.io/badge/telegram-30A3E7?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/AstrOOnauta)
 
 </div>
 
