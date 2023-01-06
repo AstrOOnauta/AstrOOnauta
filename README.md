@@ -8,6 +8,8 @@
 [<img src="https://img.shields.io/badge/gitlab-370D73?style=for-the-badge&logo=gitlab&logoColor=FC6D26"/>](https://gitlab.com/AstrOOnauta)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/astroonauta/)
 [<img src="https://img.shields.io/badge/telegram-30A3E7?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/AstrOOnauta)
+[<img src="https://img.shields.io/badge/behance-0057FF?style=for-the-badge&logo=behance&logoColor=white">](https://www.behance.net/AstrOOnauta)
+[<img  alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />](https://www.figma.com/@AstrOOnauta)
 
 </div>
 
@@ -49,7 +51,7 @@
 
 <div align = "center">
 
-![Parth's Github Status](https://github-readme-stats.vercel.app/api/top-langs/?username=astroonauta&layout=compact&text_color=daf7dc&bg_color=151515)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AstrOOnauta&layout=compact&text_color=F3F3F3&bg_color=22272E&langs_count=6)
 
 </div>
 <div align = "center">
