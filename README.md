@@ -54,6 +54,8 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AstrOOnauta&layout=compact&text_color=F3F3F3&bg_color=22272E&langs_count=6)
 
 </div>
+<br>
+<br>
 <div align = "center">
 	<br>
 	Thanks for stopping by! 😁
