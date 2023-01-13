@@ -54,7 +54,7 @@
 
 <div align = "center">
 
-[![Most Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=astroonauta&layout=compact&text_color=F3F3F3&bg_color=22272E&langs_count=6)]
+[![Most Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=astroonauta&layout=compact&text_color=F3F3F3&bg_color=22272E&langs_count=6)](https://github.com/AstrOOnauta)
 
 </div>
 <div align = "center">
