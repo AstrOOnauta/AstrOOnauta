@@ -15,7 +15,7 @@
 
 ## About me :mortar_board:
 	- 🌎 Brazilian man
-	- 📈 24 years old
+	- 📈 25 years old
 	- 🎨 UI Design student
 	- 🌐 Mid-level Software Developer
 	- 🧪 M.Sc in Chemistry
