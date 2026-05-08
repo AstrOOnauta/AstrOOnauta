@@ -6,7 +6,7 @@ I enjoy contributing to the community with open-source code and helping others g
 
 <div align="center">
 
-[<img src="https://img.shields.io/static/v1?label=Open+Source&message=AstrOOnauta&color=fbb034&style=for-the-badge&logo=ghost"/>](https://www.npmjs.com/~astroonauta)
+[<img src="https://img.shields.io/static/v1?label=Open+Source&message=AstrOOnauta&color=fbb034&style=for-the-badge&logo=ghost"/>](https://www.npmjs.com/~_astroonauta)
 [<img src="https://img.shields.io/badge/gitlab-370D73?style=for-the-badge&logo=gitlab&logoColor=FC6D26"/>](https://gitlab.com/AstrOOnauta)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/astroonauta/)
 [<img src="https://img.shields.io/badge/telegram-30A3E7?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/AstrOOnauta)
@@ -59,7 +59,7 @@ I enjoy contributing to the community with open-source code and helping others g
 
 <br>
 
-[![Will's Github Stats](https://github-readme-stats.vercel.app/api?username=astroonauta&text_color=F3F3F3&bg_color=22272E)](https://github.com/AstrOOnauta)
+[![Will's Github Stats](https://github-stats-extended.vercel.app/api?username=astroonauta&text_color=F3F3F3&bg_color=22272E)](https://github.com/AstrOOnauta)
 [![Most Used Programming Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=astroonauta&layout=compact&text_color=F3F3F3&bg_color=22272E&langs_count=6)](https://github.com/AstrOOnauta)
 
 <div align="center">
