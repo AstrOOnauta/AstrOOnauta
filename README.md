@@ -34,8 +34,8 @@ FullStack developer working with technology since 2020. I build mobile and web p
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=astroonauta&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=astroonauta&layout=compact&theme=radical)
+[![Will's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=astroonauta&show_icons=true&text_color=F3F3F3&bg_color=22272E&title_color=fbb034&icon_color=fbb034&hide_border=true)](https://github.com/AstrOOnauta)
+[![Top languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=astroonauta&layout=compact&text_color=F3F3F3&bg_color=22272E&title_color=fbb034&hide_border=true&langs_count=6)](https://github.com/AstrOOnauta)
 
 ---
 
