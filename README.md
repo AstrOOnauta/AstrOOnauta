@@ -1,3 +1,5 @@
+# Hi, I'm Will 👋
+
 **Full-stack developer** · React Native & Next.js · Python/Django · Desktop with Tauri and Electron
 
 I build mobile, web and desktop products end to end: the API and database, the app in the stores, the dashboard in the browser and the agent on the desktop. Coding professionally since 2020, I also maintain open source React Native libraries downloaded **~300k times a month** on npm.
@@ -12,11 +14,11 @@ I build mobile, web and desktop products end to end: the API and database, the a
 
 ## 🌟 Open source
 
-| Project | What it does | |
+| Project | Stars | What it does |
 | --- | --- | --- |
-| [**react-native-international-phone-number**](https://github.com/AstrOOnauta/react-native-international-phone-number) | Phone number input for React Native, Expo and Web: per-country masks, validation, line-type detection, country picker, 33 languages | ![Stars](https://img.shields.io/github/stars/AstrOOnauta/react-native-international-phone-number?style=flat-square&label=%E2%98%85) |
-| [**react-native-country-select**](https://github.com/AstrOOnauta/react-native-country-select) | Country picker with flags, search, i18n and offline support, fully typed | ![Stars](https://img.shields.io/github/stars/AstrOOnauta/react-native-country-select?style=flat-square&label=%E2%98%85) |
-| [**thermal-printer-emulator**](https://github.com/AstrOOnauta/thermal-printer-emulator) | Virtual ESC/POS receipt printer for Windows, macOS and Linux. Point your POS at TCP 9100 and see the receipt on screen. Built with Tauri 2 and Rust | ![Stars](https://img.shields.io/github/stars/AstrOOnauta/thermal-printer-emulator?style=flat-square&label=%E2%98%85) |
+| [**react-native-international-phone-number**](https://github.com/AstrOOnauta/react-native-international-phone-number) | ![Stars](https://img.shields.io/github/stars/AstrOOnauta/react-native-international-phone-number?style=flat-square&label=%E2%98%85) | Phone number input for React Native, Expo and Web: per-country masks, validation, line-type detection, country picker, 33 languages |
+| [**react-native-country-select**](https://github.com/AstrOOnauta/react-native-country-select) | ![Stars](https://img.shields.io/github/stars/AstrOOnauta/react-native-country-select?style=flat-square&label=%E2%98%85) | Country picker with flags, search, i18n and offline support, fully typed |
+| [**thermal-printer-emulator**](https://github.com/AstrOOnauta/thermal-printer-emulator) | ![Stars](https://img.shields.io/github/stars/AstrOOnauta/thermal-printer-emulator?style=flat-square&label=%E2%98%85) | Virtual ESC/POS receipt printer for Windows, macOS and Linux. Point your POS at TCP 9100 and see the receipt on screen. Built with Tauri 2 and Rust |
 
 ---
 
